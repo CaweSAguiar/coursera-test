@@ -1,1 +1,1 @@
-# coursera-test]$ git clone
+# coursera-test]$ git clone https://github.com/CaweSAguiar/coursera-test/
